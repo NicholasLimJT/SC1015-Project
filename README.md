@@ -1,7 +1,7 @@
 # SC1015 Mini Project
-
-## Content
-
+'''diff
+-## Content
+'''
 - [Introduction](#Intro)
 - [Team Members](#Team)
 - [Problem Definition](#Problem)
@@ -9,7 +9,7 @@
 
 ## Introduction
 <a id = "Intro"></a>
-This is our Mini Project for SC1015 which explores the data set of [SG Car Price Prediction](https://github.com/xianjinseow92/Data-Science-Projects/blob/master/Project_2_SgCarMart%20Price%20Prediction/notebooks/sgcarmart_used_cars_prices.csv)
+This is our Mini Project for SC1015 which explores the data set of [SGcarmart Prediction](https://github.com/xianjinseow92/Data-Science-Projects/blob/master/Project_2_SgCarMart%20Price%20Prediction/notebooks/sgcarmart_used_cars_prices.csv)
 
 
 ## Team Members
@@ -17,9 +17,9 @@ This is our Mini Project for SC1015 which explores the data set of [SG Car Price
 
 | Name                 |              Contributions               |GitHub Acount|
 |----------------------|:----------------------------------------:|---|
-| Nicholas Lim |  |@|
-| Shrey Tibrewal        |   |@|
-| Heng Yin Cang   |  |@|
+| Nicholas Lim         |            |@|
+| Shrey Tibrewal       |   |@|
+| Heng Yin Cang        |         |@|
 
 
 ## Problem Definition
