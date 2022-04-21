@@ -9,7 +9,7 @@
 
 ## Introduction
 <a id = "Intro"></a>
-This is our Mini Project for SC1015 which explores the data set of [SG Car Price Prediction] (https://github.com/xianjinseow92/Data-Science-Projects/blob/master/Project_2_SgCarMart%20Price%20Prediction/notebooks/sgcarmart_used_cars_prices.csv)
+This is our Mini Project for SC1015 which explores the data set of [SG Car Price Prediction](https://github.com/xianjinseow92/Data-Science-Projects/blob/master/Project_2_SgCarMart%20Price%20Prediction/notebooks/sgcarmart_used_cars_prices.csv)
 
 
 ## Team Members
