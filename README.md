@@ -9,6 +9,7 @@ Contents
 - [Team Members](#Team)
 - [Problem Definition](#Problem)
 - [Data Set](#Data)
+- [Exploratory Data Analysis](EDA)
 
 
 ## Introduction
@@ -38,9 +39,11 @@ This Dataset is interesting as it gives a Singaporean context. To illustrate, ![
 ![image](https://user-images.githubusercontent.com/87572499/164482545-587cf914-6353-4b27-95fa-91b3d4bcd546.png)
 As car prices are exorbitant in Singapore comapred to the other countries. It is a good idea to stick to Singapore only. 
 
+## Exploratory Data Analysis (EDA)
+<a id = "EDA"></a>
 
 ## Models Used
-<a id = "Problem"></a>
+
 
 1. [Linear Regression]
 
