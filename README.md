@@ -1,3 +1,13 @@
+## Team Members
+<a id = "Team"></a>
+
+
+ __Nicholas Lim__        Contributions [ EDA / Modelling / Presentation ] <br> <hr>
+ __Shrey Tibrewal__      Contributions [ Data Preperations / Presentation] <br> <hr>
+ __Heng Yin Cang__      Contributions [ EDA / Presentation / Github README Page] <br> <hr>
+
+
+
 ![image](https://user-images.githubusercontent.com/87572499/164483268-9bb973f7-2d28-4dc6-9cd3-028685b5b91c.png)
 
 # SC1015 Mini Project
@@ -5,8 +15,8 @@
 Contents
 ========
 
-- [Introduction](#Intro)
 - [Team Members](#Team)
+- [Introduction](#Intro)
 - [Problem Definition](#Problem)
 - [Data Set](#Data)
 - [Exploratory Data Analysis](#EDA)
@@ -15,16 +25,6 @@ Contents
 ## Introduction
 <a id = "Intro"></a>
 This is SC16 Group 6's take on our Mini Project for SC1015 which explores the data set of [SGcarmart Prediction](https://github.com/xianjinseow92/Data-Science-Projects/blob/master/Project_2_SgCarMart%20Price%20Prediction/notebooks/sgcarmart_used_cars_prices.csv)
-
-
-## Team Members
-<a id = "Team"></a>
-
-| Name                 | 
-|----------------------|
-| Nicholas Lim         |
-| Shrey Tibrewal       |  
-| Heng Yin Cang        |
 
 
 ## Problem Definition
@@ -42,7 +42,7 @@ As car prices are exorbitant in Singapore comapred to the other countries. It is
 
 ## Exploratory Data Analysis (EDA)
 <a id = "EDA"></a>
-Based on our EDA, we discovered that the data is heavily skewed to the right, this shows that cars do not tend to go on sale for lower prices while it can also soar to an exuborantly high price. This discovery led us to delve further into analysing the outliers and figuring out what leads to the extremely high prices.
+Based on our EDA, we discovered that the price is heavily skewed to the right, this shows that cars do not tend to go on sale for lower prices while it can also soar to an exuborantly high price. This discovery led us to delve further into analysing the outliers and figuring out what leads to the extremely high prices.
 
 #### Outliers
 By diving into an Outlier only data set, we found that the main culprits of the high prices are 3 brands, BMW, Mercedes-Benz and Porsche
@@ -81,13 +81,11 @@ What does this mean?
 ## Conclusion
 <hr>
 
-- All 3 Models were quite similar. The team has decided that any of the 3 models are good indicators of 
+- Linear Regression model came out on top. With a better accuracy compared to the rest.
 
-- 
+- Accuracy is still low in general, and should be improved with more implementations.
 
 ## Learning Points
 <hr>
 
-- 
-
-- 
+- Multicollinearity
